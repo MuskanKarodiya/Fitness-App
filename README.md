@@ -141,10 +141,4 @@ The timer uses `expo-notifications` to schedule a **local push notification** wh
 
 ---
 
-## 📄 License
-
-MIT — feel free to use, modify, and distribute.
-
----
-
 *Built with ❤️ using Expo + React Native*
